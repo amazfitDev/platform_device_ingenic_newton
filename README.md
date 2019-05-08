@@ -1,0 +1,1 @@
+# platform_device_ingenic_newton
